@@ -26,14 +26,14 @@ test oder was
 - [ ] ein todo in einer Liste mit viel inhalt und mehreren zeilen
 und so weiter und so fort...
 
-- [ ] und einweiteres todo
+- [x] und einweiteres todo
 
-- [ ] und einweiteres todo (2) Bei ‘HDMI’ sind die Einstellungen für das Bild, das an die Regie gesendet wird. Da sollte nur ‘CLEAN-FEED’ ausgewählt sein. (2) Bei ‘HDMI’ sind die Einstellungen für das Bild, das an die Regie gesendet wird. Da sollte nur ‘CLEAN-FEED’ ausgewählt sein.
+- [x] und einweiteres todo (2) Bei ‘HDMI’ sind die Einstellungen für das Bild, das an die Regie gesendet wird. Da sollte nur ‘CLEAN-FEED’ ausgewählt sein. (2) Bei ‘HDMI’ sind die Einstellungen für das Bild, das an die Regie gesendet wird. Da sollte nur ‘CLEAN-FEED’ ausgewählt sein.
 
 <i class='fa-regular fa-square-check'></i>
 ein todo als sonderzeichen
 
-✅ ein todo als emoji
+✅ ein todo als emoji - und einweiteres todo (2) Bei ‘HDMI’ sind die Einstellungen für das Bild, das an die Regie gesendet wird. Da sollte nur ‘CLEAN-FEED’ ausgewählt sein. (2) Bei ‘HDMI’ sind die Einstellungen für das Bild, das an die Regie gesendet wird. Da sollte nur ‘CLEAN-FEED’ ausgewählt sein.
 
 ⚠️ ein warn emoji
 
