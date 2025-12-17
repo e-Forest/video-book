@@ -22,3 +22,12 @@
 
 <i class='fa-regular fa-square-check'></i>
 test oder was
+
+- [ ] ein todo in einer Liste
+
+<i class='fa-regular fa-square-check'></i>
+ein todo als sonderzeichen
+
+✅ ein todo als emoji
+
+
