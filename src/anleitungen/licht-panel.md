@@ -1,10 +1,10 @@
 # Licht Panel
-# Einschalten
+## Einschalten
 
 - Mit dem Kippschalter wird das Lichtmischpult eingeschaltet
 ![](./images/licht_pult-onoff.png)
 
-# Datenbanken
+## Datenbanken
 
 - Die Datenbank ‘BKxx’ kann mit den Tasten ‘Bank Up’/’Bank Down’ eingestellt werden
 
@@ -28,10 +28,11 @@
 > So schaltet man das Licht nämlich aus
 
 
-# Fade Time
+## Fade Time ...
 
-- bestimmt wie langsam die Lichteinstellungen geändert werden
-- geht von 0 Sekunden bis 30 Sekunden
-1. Fade Time kann hier eingestellt werden
-2. Fade Time wird hier angezeigt
+- ... bestimmt wie langsam die Lichteinstellungen geändert werden
+- ... geht von 0 Sekunden bis 30 Sekunden
+
+1. ... kann hier eingestellt werden
+2. ... wird hier angezeigt
 ![](./images/licht_pult-fade.png)
