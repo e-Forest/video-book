@@ -40,10 +40,11 @@
 ---
 ## GoDi
 
-- Jeder Shot sollte als Poster geeignet sein
-- Gesichter nicht schneiden
-- Zeigen was man hört (Wo spielt die Musik?)
-- Korrektur Schwenks sollten im Off passieren    
+> [!TIP]
+> - Jeder Shot sollte als Poster geeignet sein
+> - Gesichter nicht schneiden
+> - Zeigen was man hört (Wo spielt die Musik?)
+> - Korrektur Schwenks sollten im Off passieren    
 
 ---
 ## Godi - Schluss Sprecher

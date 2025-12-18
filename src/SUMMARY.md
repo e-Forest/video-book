@@ -4,6 +4,7 @@
 - [Checkliste Kamera](./checkliste_kamera.md)
 - [Checkliste Regie](./checkliste_regie.md)
 - [Anleitungen](./anleitungen.md)
+    - [Kameras](./anleitungen/kameras.md)
     - [Kamera 1](./anleitungen/kam1.md)
     - [Kamera 2](./anleitungen/kam2.md)
     - [Kamera 3](./anleitungen/kam3.md)
