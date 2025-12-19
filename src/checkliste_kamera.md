@@ -23,6 +23,7 @@
 # GoDi
 
 > [!TIP]
+> 
 > **👤 Keine Gesichter anschneiden:**
 > *Achte darauf, dass Köpfe und Gesichter vollständig im Bild bleiben*
 > 

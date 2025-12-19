@@ -46,6 +46,7 @@
 # GoDi
 
 > [!TIP]
+> 
 > **🎬 Jeder Shot sollte als Standbild funktionieren:**
 > *Jeder Kamerashot muss so komponiert sein, dass er auch als Poster oder Thumbnail taugt*
 > 
