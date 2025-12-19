@@ -1,5 +1,7 @@
 # Kamera 4
 
+---
+
 ## Kamera einschalten
 - Zuerst schließt du das Power-Kabel an
 

@@ -1,5 +1,7 @@
 # Theorie
 
+---
+
 ## Regeln
 
 - Schneide keine Gesichter

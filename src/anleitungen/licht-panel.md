@@ -1,5 +1,7 @@
 # Licht Panel
 
+---
+
 ## Einschalten
 
 - Mit dem Kippschalter wird das Lichtmischpult eingeschaltet

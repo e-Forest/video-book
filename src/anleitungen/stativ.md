@@ -1,5 +1,7 @@
 # Stativ
 
+---
+
 ## Sonnenblende
 
 - Die Sonnenblende Schützt vor Blendendem Licht und Verhindert dass das Publikum durch den Bildschirm abgelenkt wird.
@@ -11,19 +13,25 @@
 
 ## Friktion einstellen
 
-Die Friktion ist richtig eingestellt wenn sich ...
+Die Friktion ist korrekt eingestellt, wenn folgende Punkte erfüllt sind:
 
-✅ ... eine schräge Linie leicht und ohne Wackeln fahren lässt
-✅ ... die Kamera stabil in der Luft stehen bleibt wenn die Griffe losgelassen werden
+✅ Eine schräge Kamerabewegung lässt sich ruhig, gleichmäßig und ohne Wackeln ausführen.
 
-- Es ist üblich, während dem Godi die Friktion zu ändern. Beispielsweise braucht man während dem Lobpreis eine leichtere Friktion als während der Predigt
-![](./images)
+✅ Die Kamera bleibt in ihrer Position stehen, wenn die Griffe losgelassen werden.
 
-- Hier wird die Friktion für neigen eingstellt
+- Es ist üblich, während dem GoDi die Friktion zu ändern. Beispielsweise braucht man während dem Lobpreis eine leichtere Friktion als während der Predigt
+
+![](./images/stativ_friktion-check.png)
+
+### Neigen
+
+- Hier wird die Friktion für das Neigen der Kamera (hoch/runter) eingestellt.
 
 ![](./images/stativ_friktion-neigen.png)
 
-- Hier wird die Friktion für schwenken eingestellt
+### Schwenken
+
+- Hier wird die Friktion für das Schwenken der Kamera (links/rechts) eingestellt.
 
 ![](./images/stativ_friktion-schwenken.png)
 
@@ -31,8 +39,9 @@ Die Friktion ist richtig eingestellt wenn sich ...
 
 ## Bremse
 
-- Mit diesen beiden Bremsen kann das Stativ verriegelt werden
-- Soll aber nicht benutzen um Friktion einzustellen, eher so zu benutzen wie die Handbremse beim Auto
+- Mit diesen beiden Bremsen kann das Stativ vollständig verriegelt werden.
+- Die Bremse sollte nicht zum Einstellen der Friktion verwendet werden.
+- Sie dient eher als Sicherung, vergleichbar mit der Handbremse bei einem Auto.
 
 ![](./images/stativ_bremse.png)
 
@@ -40,7 +49,9 @@ Die Friktion ist richtig eingestellt wenn sich ...
 
 ## Griffe einstellen
 
-Die Griffe sollten so eingestellt sein, dass man sie bequem mit einem Finger schieben kann
+- Die Griffe sollten so eingestellt sein, dass sich die Kamera bequem und kontrolliert mit minimalem Kraftaufwand bewegen lässt.
+
+- Idealerweise kann die Bewegung locker mit einem Finger ausgeführt werden.
 
 ![](./images/stativ_griffe-check.png)
 

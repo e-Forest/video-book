@@ -1,5 +1,7 @@
 # Kamera 6
 
+---
+
 ## Einschalten
 - Strom einschalten (USB-Kabel)
 

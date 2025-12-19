@@ -1,5 +1,7 @@
 # Kamera 2
 
+---
+
 ## Einschalten
 - Bei der Kamera 2 muss nur der Strom eingeschaltet werden. Der stecker befindet sich hinter dem Mischpult und ist deutlisch beschriftet.
 

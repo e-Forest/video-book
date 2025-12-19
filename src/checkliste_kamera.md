@@ -2,31 +2,42 @@
 
 ---
 
-## ab 30 Min vor dem GoDi
+## 30 .. 5 *(min vor dem GoDi)*
 
 ✅ [Kamera](./anleitungen/kameras.md) ist an
 
-✅ Headset ist an
+- Bei Stativ (Kamera 1 und Kamera 3):
 
-- Bei Stativ (Kam1 und Kam3):
+    ✅ [Friktion](./anleitungen/stativ.md#friktion-einstellen) ist eingestellt (Eine schräge Kamerabewegung lässt sich gleichmäßig und ohne Wackeln ausführen)
 
-    ✅ [Friktion](./anleitungen/stativ.md#friktion-einstellen) ist eingestellt (Eine diagonale Linie lässt sich ohne wackeln abfahren)
+    ✅ [Griffe](./anleitungen/stativ.md#griffe-einstellen) sind auf eine bequeme Höhe eingestellt (Bewegung kann locker mit einem Finger ausgeführt werden)
 
-    ✅ [Griffe](./anleitungen/stativ.md#griffe-einstellen) sind auf eine bequeme Höhe eingestellt
-    
 ---
 
-## GoDi
+## 5 .. 0 *(min vor dem GoDi)*
+
+✅ Headset ist an, Verbindung zur Regie steht
+
+---
+
+# GoDi
 
 > [!TIP]
-> - Schneide keine Gesichter
-> - Filme was du hörst (Wo spielt die Musik?)
-> - Schwenke mit dem Objekt (Achte auf die Füße)
-> - Sei immer auf der Suche nach guten Shots
+> **👤 Keine Gesichter anschneiden:**
+> *Achte darauf, dass Köpfe und Gesichter vollständig im Bild bleiben*
+> 
+> **🔊 Filme, was du hörst:**
+> *Wo spielt die Musik? Zeige die Quelle (Musiker, Instrumente, Handlung)*
+> 
+> **🚶 Schwenke mit dem Objekt:**
+> *Bleib bei der Bewegung des Motivs – besonders auf Füße und Bewegungsrichtung achten*
+> 
+> **👀 Immer auf der Suche nach guten Shots sein:**
+> *Beobachte permanent das Geschehen und halte Ausschau nach starken, ruhigen und aussagekräftigen Bildern*
     
 ---
 
-## GoDi - Ende
+## Ende *(nach dem GoDi)*
 
 ✅ Kamera ist aus
 

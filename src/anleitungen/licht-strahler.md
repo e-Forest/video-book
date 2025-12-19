@@ -1,4 +1,7 @@
 # Licht Strahler
+
+---
+
 - Mit (1) (2) (3) werden die Licht-Traversen eingeschaltet
 
 ![](./images/licht_stromkasten.png)

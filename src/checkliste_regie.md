@@ -1,7 +1,8 @@
 # Checkliste Regie
 
 ---
-## ab 60min vor GoDi
+
+## 60 .. 10 *(min vor dem GoDi)*
 
 ✅ [Flur Bildschirm](./anleitungen/flurbildschirm.md) ist an
 
@@ -18,11 +19,13 @@
 ✅ [Video-Encoder](./anleitungen/encoder.md) steht auf ‘ON AIR’
 
 ---
-## 10min vor GoDi
+
+## 10 .. 7 *(min vor dem GoDi)*
 ✅ [‘Intro An’](./anleitungen/sdeck.md#intro-an) auf Stream Deck leuchtet rot
 
 ---
-## 5min vor GoDi
+
+## 5 .. 3 *(min vor dem GoDi)*
 
 ✅ Tontechniker wissen bescheid dass man live geht
 
@@ -31,35 +34,38 @@
 ✅ Eine Kamera für Preview ist gesetzt
 
 ---
-## 0min - GoDi
+
+## 0 min *(GoDi Start)*
 
 ⚠️ Erste Cut mit Stream Deck [‘Intro Aus’](./anleitungen/sdeck.md#intro-aus)
 
 ✅ Licht ist auf ‘Predigt’ gestellt
 
 ---
-## GoDi
+
+# GoDi
 
 > [!TIP]
-> - Jeder Shot sollte als Poster geeignet sein
-> - Gesichter nicht schneiden
-> - Zeigen was man hört (Wo spielt die Musik?)
-> - Korrektur Schwenks sollten im Off passieren    
+> **🎬 Jeder Shot sollte als Standbild funktionieren:**
+> *Jeder Kamerashot muss so komponiert sein, dass er auch als Poster oder Thumbnail taugt*
+> 
+> **👤 Gesichter nicht anschneiden:**
+> *Keine Schnitte durch Köpfe oder Gesichter – saubere Bildränder wahren*
+> 
+> **🎥 Korrekturen im Off durchführen:**
+> *Schwenks, Neuausrichtungen und Bildkorrekturen möglichst außerhalb der Live-Einstellung machen*
 
----
-## Godi - Schluss Sprecher
+### GoDi *(Schluss Sprecher)*
 
 ✅ bei Spende: Cut 8 (Kam1 + Beamer) ist ausgewählt
 
 ✅ bei Gebet/Dank: Macro [‘Gebet LWT’](./anleitungen/sdeck.md#gebet-lwt-gebet-lower-third) ist an
 
----
-## Godi - Ende
+### GoDi *(Schluss)*
 
 ✅ Macro [‘Outro’](./anleitungen/sdeck.md#outro) ist gestartet
 
----
-## Nach Outro-Folien
+### GoDi *(nach Outro-Folien)*
 
 ✅ Stream ist im [Live Control Room](./anleitungen/yt-croom.md) beendet
 
@@ -68,7 +74,10 @@
 ✅ Macro [‘Diashow Cafe’](./anleitungen/sdeck.md#diashow-cafe) ist gestartet
 
 ---
-## Ende
+
+## Ende *(nach dem GoDi)*
+
+✅ An Feedback-Runde bei der Regie teilnehmen
 
 ✅ [Flur Bildschirm](./anleitungen/flurbildschirm.md) ist aus
 
