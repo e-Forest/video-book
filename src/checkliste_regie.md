@@ -12,7 +12,9 @@
 
 ✅ [ATEM](./anleitungen/atem.md) Software ist gestartet
 
-✅ [Kameras](./anleitungen/kameras.md) werden in [Multiview](./anleitungen/atem.md#multiview) angezeigt
+✅ [Kamera 2](./anleitungen/kam2.md), [Kamera 5](./anleitungen/kam5.md) und [Kamera 6](./anleitungen/kam6.md) sind angeschaltet und ausgerichtet
+
+✅ Bilder werden in [Multiview](./anleitungen/atem.md#multiview) angezeigt
 
 ✅ Das Makro [‘Kameras Einstellen’](./anleitungen/sdeck.md#kameras-einstellen) ist durchgelaufen
 
