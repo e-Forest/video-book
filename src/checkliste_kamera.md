@@ -2,7 +2,7 @@
 
 ---
 
-## 30 .. 5 *(min vor dem GoDi)*
+## 30 .. 10 *(min vor dem GoDi)*
 
 ✅ [Kamera](./anleitungen/kameras.md) ist an
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 5 .. 0 *(min vor dem GoDi)*
+## 10 .. 0 *(min vor dem GoDi)*
 
 ✅ Headset ist an, Verbindung zur Regie steht
 

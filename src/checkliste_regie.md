@@ -10,9 +10,9 @@
 
 ✅ [Licht](./anleitungen/licht-panel.md#datenbanken) ist auf ‘BK01’ und ‘Ambiente’
 
-✅ [ATEM](./anleitungen/bildmischer-soft.md) Software ist gestartet
+✅ [ATEM](./anleitungen/atem.md) Software ist gestartet
 
-✅ Kameras werden in Multiview angezeigt
+✅ [Kameras](./anleitungen/kameras.md) werden in [Multiview](./anleitungen/atem.md#multiview) angezeigt
 
 ✅ Das Makro [‘Kameras Einstellen’](./anleitungen/sdeck.md#kameras-einstellen) ist durchgelaufen
 
@@ -58,9 +58,9 @@
 
 ### GoDi *(Schluss Sprecher)*
 
-✅ bei Spende: Cut 8 (Kam1 + Beamer) ist ausgewählt
+✅ **bei Spende:** Cut 8 (Kam1 + Beamer) ist ausgewählt
 
-✅ bei Gebet/Dank: Macro [‘Gebet LWT’](./anleitungen/sdeck.md#gebet-lwt-gebet-lower-third) ist an
+✅ **bei Gebet/Dank:** Macro [‘Gebet LWT’](./anleitungen/sdeck.md#gebet-lwt-gebet-lower-third) ist an
 
 ### GoDi *(Schluss)*
 
@@ -84,7 +84,7 @@
 
 ✅ [Strahler](./anleitungen/licht-strahler.md) sind aus
 
-✅ Kameras sind aus
+✅ [Kameras](./anleitungen/kameras.md) sind aus
 
 ✅ [Video-Encoder](./anleitungen/encoder.md) steht auf ‘OFF’
 
