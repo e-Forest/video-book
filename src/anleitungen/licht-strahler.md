@@ -2,7 +2,17 @@
 
 ---
 
-- Mit (1) (2) (3) werden die Licht-Traversen eingeschaltet
+# Beleuchtung
+- Das Licht für Bühne und Balkon wird mit diesen Lichtschaltern ausgeschaltet
+![](./images/licht_strahler-licht-buehe+balkon.png)
+
+- Das Licht an den Wänden bleibt aber an
+![](./images/licht_strahler-licht-wande.png)
+
+---
+
+# Strahler
+- Mit (1) (2) (3) werden die Licht-Traversen ein- und ausgeschaltet
 
 ![](./images/licht_stromkasten.png)
 

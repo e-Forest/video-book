@@ -6,9 +6,11 @@
 
 ✅ [Flur Bildschirm](./anleitungen/flurbildschirm.md) ist an
 
-✅ [Strahler](./anleitungen/licht-strahler.md) sind bereit
+✅ Die [Lichtschalter](./anleitungen/licht-strahler.md#beleuchtung) für Bühne und Balkon sind ausgeschaltet
 
-✅ [Licht](./anleitungen/licht-panel.md#datenbanken) ist auf ‘BK01’ und ‘Ambiente’
+✅ [Strahler](./anleitungen/licht-strahler.md#strahler) sind bereit
+
+✅ [Lichtpult](./anleitungen/licht-panel.md#datenbanken) ist auf ‘BK01’ und ‘Ambiente’
 
 ✅ [ATEM](./anleitungen/atem.md) Software ist gestartet
 
@@ -19,6 +21,8 @@
 ✅ Das Makro [‘Kameras Einstellen’](./anleitungen/sdeck.md#kameras-einstellen) ist durchgelaufen
 
 ✅ [Video-Encoder](./anleitungen/encoder.md) steht auf ‘ON AIR’
+
+✅ Regie [Headset](./anleitungen/headset.md) ist eingeschaltet, Verbindung zu Kameraleuten steht
 
 ---
 
@@ -82,9 +86,9 @@
 
 ✅ An Feedback-Runde bei der Regie teilnehmen
 
-✅ [Flur Bildschirm](./anleitungen/flurbildschirm.md) ist aus
+✅ [Lichtpult](./anleitungen/licht-panel.md#einschalten--auschalten) ist ausgeschaltet
 
-✅ [Strahler](./anleitungen/licht-strahler.md) sind aus
+✅ [Strahler](./anleitungen/licht-strahler.md#strahler) sind aus
 
 ✅ [Kameras](./anleitungen/kameras.md) sind aus
 
@@ -95,3 +99,5 @@
 ✅ Akkus von Headsets werden aufgeladen
 
 ✅ [Akku von Kamera 4](./anleitungen/kam4.md#akku-laden) wird aufgeladen
+
+✅ [Flur Bildschirm](./anleitungen/flurbildschirm.md) ist aus

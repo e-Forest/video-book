@@ -20,4 +20,5 @@
     - [Stream Deck](./anleitungen/sdeck.md)
     - [Youtube Control Room](./anleitungen/yt-croom.md)
     - [Theorie](./anleitungen/theorie.md)
+    - [Headset](./anleitungen/headset.md)
 

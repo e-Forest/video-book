@@ -16,7 +16,7 @@
 
 ## 10 .. 0 *(min vor dem GoDi)*
 
-✅ Headset ist an, Verbindung zur Regie steht
+✅ [Headset](./anleitungen/headset.md) ist an, Verbindung zur Regie steht
 
 ---
 

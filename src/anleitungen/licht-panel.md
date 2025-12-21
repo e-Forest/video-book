@@ -2,9 +2,9 @@
 
 ---
 
-## Einschalten
+## Einschalten / Auschalten
 
-- Mit dem Kippschalter wird das Lichtmischpult eingeschaltet
+- Mit dem Kippschalter wird das Lichtmischpult ein- und ausgeschaltet
 
 ![](./images/licht_pult-onoff.png)
 
