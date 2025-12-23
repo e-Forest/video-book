@@ -4,26 +4,30 @@
 
 ## 30 .. 10 *(min vor dem GoDi)*
 
-✅ [Kamera](./anleitungen/kameras.md) ist an
+✅ [Kamera](./anleitungen/kameras.md) ist eingeschaltet
 
-- Bei Stativ (Kamera 1 und Kamera 3):
+✅ [Headset](./anleitungen/headset.md) ist an, Verbindung zur Regie steht
 
-    ✅ [Friktion](./anleitungen/stativ.md#friktion-einstellen) ist eingestellt (Eine schräge Kamerabewegung lässt sich gleichmäßig und ohne Wackeln ausführen)
+> **Besonderheit [Kamera 1](./anleitungen/kam1.md) und [Kamera 3](./anleitungen/kam3.md):**
+>
+> ✅ [Friktion](./anleitungen/stativ.md#friktion-einstellen) ist eingestellt (Eine schräge Kamerabewegung lässt sich gleichmäßig und ohne Wackeln ausführen)
+>
+> ✅ [Griffe](./anleitungen/stativ.md#griffe-einstellen) sind auf eine bequeme Höhe eingestellt (Bewegung kann locker mit einem Finger ausgeführt werden)
 
-    ✅ [Griffe](./anleitungen/stativ.md#griffe-einstellen) sind auf eine bequeme Höhe eingestellt (Bewegung kann locker mit einem Finger ausgeführt werden)
+> **Besonderheit [Kamera 4](./anleitungen/kam4.md):**
+>
+>  ✅ [Kamera-Akku](./anleitungen/kam4.md#akku-laden) ist eingesetzt
 
 ---
 
 ## 10 .. 0 *(min vor dem GoDi)*
 
-✅ [Headset](./anleitungen/headset.md) ist an, Verbindung zur Regie steht
+✅ Anweisungen der Regie folgen
 
 ---
 
-# GoDi
+# Während dem GoDi
 
-> [!TIP]
-> 
 > **👤 Keine Gesichter anschneiden:**
 > *Achte darauf, dass Köpfe und Gesichter vollständig im Bild bleiben*
 > 
@@ -40,10 +44,12 @@
 
 ## Ende *(nach dem GoDi)*
 
-✅ Kamera ist aus
-
-✅ Headset ist auf dem Platz
-
-✅ Headset Akku wird aufgeladen
+✅ [Kamera](./anleitungen/kameras.md) ist ausgeschaltet
 
 ✅ An Feedback-Runde bei der Regie teilnehmen
+
+✅ [Headset](./anleitungen/headset.md) ist auf dem Platz und Headset-Akku wird aufgeladen
+
+> **Besonderheit [Kamera 4](./anleitungen/kam4.md):**
+>
+>  ✅ [Kamera-Akku](./anleitungen/kam4.md#akku-laden) wird aufgeladen

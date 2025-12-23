@@ -18,7 +18,7 @@
 
 ✅ Bilder werden in [Multiview](./anleitungen/atem.md#multiview) angezeigt
 
-✅ Das Makro [‘Kameras Einstellen’](./anleitungen/sdeck.md#kameras-einstellen) ist durchgelaufen
+✅ Das Makro [‘Kameras Einstellen’](./anleitungen/sdeck.md#kameras-einstellen) ist gestartet
 
 ✅ [Video-Encoder](./anleitungen/encoder.md) steht auf ‘ON AIR’
 
@@ -49,10 +49,8 @@
 
 ---
 
-# GoDi
+# Während dem GoDi
 
-> [!TIP]
-> 
 > **🎬 Jeder Shot sollte als Standbild funktionieren:**
 > *Jeder Kamerashot muss so komponiert sein, dass er auch als Poster oder Thumbnail taugt*
 > 
@@ -68,7 +66,7 @@
 
 ✅ **bei Gebet/Dank:** Macro [‘Gebet LWT’](./anleitungen/sdeck.md#gebet-lwt-gebet-lower-third) ist an
 
-### GoDi *(Schluss)*
+### GoDi *(nach Schluss Sprecher)*
 
 ✅ Macro [‘Outro’](./anleitungen/sdeck.md#outro) ist gestartet
 
@@ -94,9 +92,7 @@
 
 ✅ [Video-Encoder](./anleitungen/encoder.md) steht auf ‘OFF’
 
-✅ Headsets sind auf ihrem Platz
-
-✅ Akkus von Headsets werden aufgeladen
+✅ [Headset](./anleitungen/headset.md) ist auf dem Platz und Headset-Akku wird aufgeladen
 
 ✅ [Akku von Kamera 4](./anleitungen/kam4.md#akku-laden) wird aufgeladen
 
