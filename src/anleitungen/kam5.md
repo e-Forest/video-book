@@ -2,8 +2,4 @@
 
 ---
 
-## Ausrichten
-
 🚧 Baustelle 🚧
-
-:: Schwer auszurichten, Verbesserung gesucht ::

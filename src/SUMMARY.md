@@ -1,8 +1,11 @@
 # Summary
 
 [Übersicht](start.md)
-- [Checkliste Kamera](./checkliste_kamera.md)
-- [Checkliste Regie](./checkliste_regie.md)
+- [Checklisten](./checklisten.md)
+    - [Checkliste Beamer](./checklisten/beamer.md)
+    - [Checkliste Kamera](./checklisten/kamera.md)
+    - [Checkliste Regie](./checklisten/regie.md)
+    - [Checkliste Licht](./checklisten/licht.md)
 - [Anleitungen](./anleitungen.md)
     - [Kameras](./anleitungen/kameras.md)
     - [Kamera 1](./anleitungen/kam1.md)

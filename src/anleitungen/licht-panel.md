@@ -18,15 +18,19 @@
 
 ![](./images/licht_pult-bk01.png)
 
-- Je nachdem welche Datenbank eingestellt ist, sind die Tasten mit Licht-Einstellungen (Szenen) vor belegt
+- Durch die gewählte Datenbank wird bestimmt mit welchen Licht-Einstellungen (Szenen) die Tasten vor belegt sind
+
+---
+
+## Szenen
 
 ![](./images/licht_pult-scenes-1.png)
 
 - In ‘BK01’ sind passende Szenen zu folgenden Programm-Punkten hinterlegt: 
-    - Lobpreis
-    - Predigt
-    - Ambiente
-    - Video
+    1. Lobpreis
+    2. Predigt
+    3. Ambiente
+    4. Video
 
 - Die Aktive Szene wird hier angezeigt
 
