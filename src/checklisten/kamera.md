@@ -40,7 +40,7 @@
 > **👀 Immer auf der Suche nach guten Shots sein:**
 > *Beobachte permanent das Geschehen und halte Ausschau nach starken, ruhigen und aussagekräftigen Bildern*
 >
-> [Weitere Tipps](.../anleitungen/theorie.md)
+> [Weitere Tipps](../anleitungen/theorie.md)
 ---
 
 ## Ende *(nach dem GoDi)*

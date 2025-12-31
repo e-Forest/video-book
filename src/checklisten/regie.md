@@ -60,7 +60,7 @@
 > **🎥 Korrekturen im Off durchführen:**
 > *Schwenks, Neuausrichtungen und Bildkorrekturen möglichst außerhalb der Live-Einstellung machen*
 >
-> [Weitere Tipps](.../anleitungen/theorie.md)
+> [Weitere Tipps](../anleitungen/theorie.md)
 
 ### GoDi *(Schluss Sprecher)*
 
