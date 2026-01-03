@@ -2,7 +2,7 @@
 
 ---
 
-# Vor Gottesdienst
+## Vor Gottesdienst
 
 ✅ Über Tuya App Beamer Steckdose aktivieren (Die App haben nur ein paar Leute, an Leiter wenden)
 
@@ -25,7 +25,7 @@
 
 ---
 
-# Während Gottesdienst
+## Während Gottesdienst
 
 ✅ Lieder schalten (parallel zum Lobpreis)
 
@@ -33,7 +33,7 @@
 
 ---
 
-# Nach Gottesdienst
+## Nach Gottesdienst
 
 ✅ Beamerbild auf Video-Feed umschalten
 
