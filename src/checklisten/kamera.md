@@ -8,6 +8,8 @@
 
 ✅ [Headset](../anleitungen/headset.md) ist an, Verbindung zur Regie steht
 
+✅ Parameter [Blende](../anleitungen/kam1.md#blende) steht auf 6.2
+
 > **Besonderheit [Kamera 1](../anleitungen/kam1.md) und [Kamera 3](../anleitungen/kam3.md):**
 >
 > ✅ [Friktion](../anleitungen/stativ.md#friktion-einstellen) ist eingestellt (Eine schräge Kamerabewegung lässt sich gleichmäßig und ohne Wackeln ausführen)
