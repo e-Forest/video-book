@@ -21,6 +21,19 @@
 
 ---
 
+## Ausrichten
+Wenn die Kamera nicht getragen wird, sollte sie folgendermaßen positioniert werden
+
+✅ Die Füße stehen an den Stuhlbeinen der vordersten rechten Stuhl-Reihe
+
+![](./images/kam4_position.png)
+
+✅ Das Bild der Kamera sollte ungefär so aussehen
+
+![](./images/kam4_bildausschnitt.jpg)
+
+---
+
 ## Bedienen
 1. Drehen zum Zoomen
 2. Fokus Schalter

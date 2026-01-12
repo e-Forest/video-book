@@ -24,4 +24,9 @@
     - [Youtube Control Room](./anleitungen/yt-croom.md)
     - [Theorie](./anleitungen/theorie.md)
     - [Headset](./anleitungen/headset.md)
+    - [Beamer](./anleitungen/beamer.md)
+    - [FreeWorship](./anleitungen/freeworship.md)
+    - [ChurchTools](./anleitungen/churchtools.md)
+    - [WhatsApp](./anleitungen/whatsapp.md)
+    - [Tipps Beamer](./anleitungen/tipps_beamer.md)
 

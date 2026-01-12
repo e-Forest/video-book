@@ -2,3 +2,6 @@
 title = "Video Book"
 authors = ["e-Forest"]
 language = "de"
+
+[output.html]
+additional-css = ["theme/custom.css"]

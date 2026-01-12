@@ -2,34 +2,49 @@
 
 ---
 
-## Vor Gottesdienst
+## 30 .. 10 *(min vor dem GoDi)*
 
-✅ Über Tuya App Beamer Steckdose aktivieren (Die App haben nur ein paar Leute, an Leiter wenden)
+✅ Über Tuya App Beamer-Steckdose aktivieren (Die App haben nur ein paar Leute, an Leiter wenden)
 
-✅ Beamer und Fernseher einschalten (Fernbedienungen liegen neben Monitor)
-- Fernseher dient als Stage-Display für Band und Sprecher
+✅ [Beamer und Fernseher](../anleitungen/beamer.md#einschalten) einschalten (Fernbedienungen liegen neben Monitor)
 
 ✅ Rechner hochfahren (Login-PW für „Deutsche Gemeinde“ ist HeRRJeSUS)
 
-✅ FreeWorship starten
-- Stage Display aktivieren (oben rechts im Fenster, Screenshots machen)
-- Settings.xml laden (Screenshots, Ordner-Pfad)
+✅ [FreeWorship](../anleitungen/freeworship.md#starten) starten
 
-✅ Countdown auf 10:00 einstellen
+✅ [Settings.xml](../anleitungen/freeworship.md#settings) laden
 
-✅ Informationen über Ablauf für Gottesdienst sind auf ChurchTools vorhanden
+✅ [Kleinen Bildschirm](../anleitungen/beamer.md#kleiner-bildschirm) einschalten
 
-✅ Songs in FreeWorship hinzufügen (falls ein Song nicht in der Songdatenbank nicht vorhanden ist, neu erstellen)
+✅ [Show Stagedisplay](../anleitungen/freeworship.md#stage-display) einschalten
 
-✅ Prediger schickt Powerpoint (nicht alle Prediger machen das)
+✅ [Timer](../anleitungen/freeworship.md#timer) auf 10:00 Uhr einstellen
+
+✅ Beamer-Bild anzeigen [(apply down)](../anleitungen/freeworship.md)
+
+✅ Informationen über [Ablauf](../anleitungen/churchtools.md#ablauf-anzeigen) für Gottesdienst sind auf ChurchTools vorhanden
+
+✅ Songs in FreeWorship [hinzufügen](../anleitungen/freeworship.md#song-importieren) 
+
+> Falls ein Song nicht in der Songdatenbank nicht vorhanden ist muss der Song [neu erstellt](../anleitungen/freeworship.md#song-erstellen) werden
+
+✅ Predigt-Präsentation in FreeWorschip [importieren](../anleitungen/freeworship.md#präsentation-importieren)
 
 ---
 
-## Während Gottesdienst
+# Während dem GoDi
 
 ✅ Lieder schalten (parallel zum Lobpreis)
 
 ✅ PowerPoint für Prediger schalten 
+
+> **🌿 Ruhe bewahren:**
+> *Wenn du die richtige Zeile nicht sofort findest, bleib gelassen. Blende den Text kurz aus und suche in Ruhe die passende Stelle, statt hektisch durch die Folien zu klicken.*
+> 
+> **🚦 Rechtzeitig schalten:**
+> *Wechsle die Folien lieber etwas zu früh als zu spät. Sei immer einen kleinen Moment vor dem Gesang, damit die Gemeinde den Text rechtzeitig lesen kann.*
+> 
+> [Weitere Tipps](../anleitungen/tipps_beamer.md)
 
 ---
 
@@ -39,4 +54,4 @@
 
 ✅ PC ausschalten
 
-✅ Ungefähr 10 Min später Beamer und Fernsehe ausschalten
+✅ Ungefähr 10 Min später Beamer und Fernseher ausschalten
