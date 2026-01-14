@@ -22,7 +22,7 @@
 ---
 
 ## Ausrichten
-Wenn die Kamera nicht getragen wird, sollte sie folgendermaßen positioniert werden
+Wenn die Kamera nicht getragen wird (normalerweise zu Predigt-Beginn), sollte sie folgendermaßen positioniert werden
 
 ✅ Die Füße stehen an den Stuhlbeinen der vordersten rechten Stuhl-Reihe
 
