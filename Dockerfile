@@ -1,15 +1,41 @@
-# --- Build stage ---
-FROM rust:1.85-slim AS builder
+# syntax=docker/dockerfile:1
+ARG BASE_IMAGE=alpine:3.23.2
 
-ARG MDBOOK_VERSION=0.4.36
-WORKDIR /app
+FROM rust:1.92.0-slim-bookworm AS builder
 
-RUN cargo install mdbook --version ${MDBOOK_VERSION}
+ARG TARGETPLATFORM
+ARG MDBOOK_VERSION
+ARG CARGO_TARGET
+ARG MDBOOK_MERMAID_VERSION
+ARG MDBOOK_TOC_VERSION
 
-COPY . .
-RUN mdbook build
+ENV CARGO_TARGET_DIR="/usr/local/cargo-target"
 
-# --- Runtime stage ---
-FROM nginx:alpine
-COPY --from=builder /app/book /usr/share/nginx/html
-EXPOSE 80
+RUN rm -f /etc/apt/apt.conf.d/docker-clean && \
+    echo 'Binary::apt::APT::Keep-Downloaded-Packages "true";' > /etc/apt/apt.conf.d/keep-cache
+RUN --mount=type=cache,sharing=locked,target=/var/cache/apt \
+    --mount=type=cache,sharing=locked,target=/var/lib/apt \
+    apt-get update && \
+    apt-get install --no-install-recommends -y \
+    musl-tools \
+    file
+RUN rustup target add "${CARGO_TARGET}"
+RUN --mount=type=cache,sharing=locked,target=/usr/local/cargo-target \
+    cargo install mdbook --version "${MDBOOK_VERSION}" --target "${CARGO_TARGET}" && \
+    strip "$(which mdbook)"
+RUN --mount=type=cache,sharing=locked,target=/usr/local/cargo-target \
+    cargo install mdbook-mermaid --version "${MDBOOK_MERMAID_VERSION}" --target "${CARGO_TARGET}" && \
+    strip "$(which mdbook-mermaid)"
+RUN --mount=type=cache,sharing=locked,target=/usr/local/cargo-target \
+    cargo install mdbook-toc --version "${MDBOOK_TOC_VERSION}" --target "${CARGO_TARGET}" && \
+    strip "$(which mdbook-toc)"
+
+FROM ${BASE_IMAGE}
+
+SHELL ["/bin/ash", "-eo", "pipefail", "-c"]
+COPY --from=builder /usr/local/cargo/bin/mdbook /usr/bin/mdbook
+COPY --from=builder /usr/local/cargo/bin/mdbook-mermaid /usr/bin/mdbook-mermaid
+COPY --from=builder /usr/local/cargo/bin/mdbook-toc /usr/bin/mdbook-toc
+
+WORKDIR /book
+ENTRYPOINT [ "/usr/bin/mdbook" ]
