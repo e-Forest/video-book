@@ -90,7 +90,7 @@
 
 ✅ [Strahler](../anleitungen/licht-strahler.md#strahler) sind aus
 
-✅ [Kameras](../anleitungen/kameras.md) sind aus
+✅ [Kameras](../anleitungen/kameras.md) sind aus (⚠️ besonders Kamera 2 und Kamera 6)
 
 ✅ [Video-Encoder](../anleitungen/encoder.md) steht auf ‘OFF’
 
