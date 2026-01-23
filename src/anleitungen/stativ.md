@@ -84,3 +84,39 @@ Die Friktion ist korrekt eingestellt, wenn folgende Punkte erfüllt sind:
 
 > [!WARNING]
 > Gleichzeitig zu Zoomen und den Fokus einzustellen ist schwierig und sollte vermieden werden
+
+---
+
+## Macros
+
+### Lifestream / Digitale Bildvergrößerung
+1. Lifestream anzeigen
+    - Gedrückt halten: Kurz anzeigen
+    - Doppel-Tipp: Anzeigen Ein/Aus
+    - Gut bei Predigt
+    - Wenn Slides gezeigt werden kann das Bild besser eingestellt werden
+2. Digitale Bild-Vergrößerung
+    - Nur für den Bediener, Output bleibt unverändert
+    - Bildausschnitt kann am Touchscreen verschoben/skaliert werden
+    - zB. für Focus-Kontrolle
+
+![](./images/stativ_macros-livestream+vergr.png)
+
+### Autofokus
+- Drücken um Fokus automatisch zu setzen
+- Manchmal nützlich um Einstellungen zu kontrollieren
+- Meistens aber nicht besonders praktisch da Fehleranfällig und Langsam
+
+![](./images/stativ_macros-autofocus.png)
+
+---
+
+## Regler
+
+- Diese drei Regler haben keinen Einfluss auf das Ausgangs Signal
+    - Bright: Helligkeit
+    - Contrast: Kontrast
+    - Peaking: Fokus Hilfe
+    - Zeigt welche Tiefe scharf gestellt ist
+
+![](./images/stativ_regler+peaking.png)

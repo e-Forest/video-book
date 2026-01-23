@@ -14,6 +14,7 @@
     - [Kamera 4](./anleitungen/kam4.md)
     - [Kamera 5](./anleitungen/kam5.md)
     - [Kamera 6](./anleitungen/kam6.md)
+    - [Stativ Kamera (Basic)](./anleitungen/stativkamera(basic).md)
     - [Flur Bildschirm](./anleitungen/flurbildschirm.md)
     - [Stativ](./anleitungen/stativ.md)
     - [Licht Panel](./anleitungen/licht-panel.md)
