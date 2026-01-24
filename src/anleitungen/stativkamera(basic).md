@@ -2,7 +2,7 @@
 
 ---
 
-## Anschalten
+## 1. Anschalten
 
 
 > ✅ Schalte den Strom ein
@@ -19,7 +19,7 @@
 
 ---
 
-## Einstellen
+## 2. Einstellen
 
 > ✅ Stelle den Blende-Parameter ein
 > 
@@ -35,6 +35,10 @@
 > ### Friktion 'Neigen' einstellen
 >
 > ![](./images/kam1/friktion_einstellen-neigen.png)
+>
+>> **TIPP:** Während der Predigt ist es hilfreich die Neigung mit dieser Bremse festzusetzen.
+>>
+>> ![](./images/kam1/bremse-neigen.png)
 >
 > ---
 >
@@ -56,7 +60,19 @@
 
 ---
 
-## Ausschalten
+## 3. Bedienen
+
+> ### 'Zoom' einstellen
+>
+> ![](./images/kam1/bedienen-zoom.png)
+
+> ### 'Fokus' einstellen
+>
+> ![](./images/kam1/bedienen-fokus.png)
+
+---
+
+## 4. Ausschalten
 
 
 > ✅ Schalte die Kamera aus

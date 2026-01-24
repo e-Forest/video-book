@@ -24,6 +24,8 @@
 
 ✅ Regie [Headset](../anleitungen/headset.md) ist eingeschaltet, Verbindung zu Kameraleuten steht
 
+✅ In FreeWorship ist das SliteSet mit anstehenden Events geprüft und mit ‘Loop’ gestartet
+
 ---
 
 ## 10 .. 7 *(min vor dem GoDi)*
