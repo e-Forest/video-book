@@ -1,5 +1,7 @@
 # Checkliste Kamera
 
+[➡️ Basics](../anleitungen/stativkamera(basic).md)
+
 ---
 
 ## 30 .. 10 *(min vor dem GoDi)*
