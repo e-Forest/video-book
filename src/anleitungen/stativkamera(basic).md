@@ -42,7 +42,7 @@
 >
 > ---
 >
-> ### Friktion 'Schenken' einstellen
+> ### Friktion 'Schwenken' einstellen
 >
 > ![](./images/kam1/friktion_einstellen-schwenken.png)
 >
