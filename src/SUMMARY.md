@@ -30,4 +30,4 @@
     - [ChurchTools](./anleitungen/churchtools.md)
     - [WhatsApp](./anleitungen/whatsapp.md)
     - [Tipps Beamer](./anleitungen/tipps_beamer.md)
-
+    - [NextCloud](./anleitungen/nextcloud-win.md)
