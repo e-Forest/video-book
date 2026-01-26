@@ -60,7 +60,7 @@
 
 ✅ Gib das Passwort ein, dass du vom Admin bekommen hast
 
-![](./images/nextcloud/3.4-laufwerk-verbinden-3.png)
+![](./images/nextcloud/3.3-laufwerk-verbinden-3.png)
 
 ---
 
