@@ -1,38 +1,14 @@
-# NextCloud (Windows)
+# NextCloud(Mac)
 
----
+✅ Öffne im Browser: [nextcloud.com/clients](https://nextcloud.com/install/#install-clients)
 
-✅ Drücke auf der Tastatur 'Win' + 'R'
+✅ Unter Desktop Clients auf macOS klicken
 
-![](./images/nextcloud/1.1-winget-install(win+r).png)
+✅ Die .dmg-Datei herunterladen
 
----
+✅ DMG öffnen und Nextcloud.app in den Programme-Ordner ziehen
 
-✅ Kopiere diesen Befehl da rein:
-
-> ```
-> winget install Nextcloud.NextcloudDesktop
-> ```
-
-![](./images/nextcloud/1.2-winget-install(win+r).png)
-
-✅ Und bestätige mit 'Y' 'Enter'
-
----
-
-✅ Starte die Installation mit 'Ja'
-
-![](./images/nextcloud/1.3-aenderungen-zulassen.png)
-
----
-
-✅ Warte einen Moment ... 'NextCloud - DeskClient' wird installiert ...
-
----
-
-✅ Starte 'NextCloud'
-
-![](./images/nextcloud/2.1-nextcloud-starten.png)
+✅ Nextcloud starten (Programme → Nextcloud)
 
 ---
 
