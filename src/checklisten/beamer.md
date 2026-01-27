@@ -2,7 +2,7 @@
 
 ---
 
-## 30 .. 10 *(min vor dem GoDi)*
+## 30 min vor dem GoDi
 
 ✅ Über Tuya App Beamer-Steckdose aktivieren (Die App haben nur ein paar Leute, an Leiter wenden)
 

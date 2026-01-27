@@ -9,9 +9,23 @@
 
 ## Timer
 
+![](./images/fw_timer-1.png)
+
+![](./images/fw_timer-2.png)
+
+Wenn hier 'Target Time' ausgewählt ist, wird hier die Uhrzeit eingestellt, bis zu der herungergezählt wird.
+
+Und zwar in diesem Format HH:MM:SS
+
+![](./images/fw_timer-3.png)
+
 ---
 
 ## Settings
+
+![](./images/fw_settings-import-1.png)
+
+![](./images/fw_settings-import-2.png)
 
 ---
 
@@ -39,6 +53,12 @@ Hier kannst du sehen was auf dem Stage Display gezeigt wird
 ---
 
 ## Song importieren
+
+Um einen Song zu importieren, klickst du auf das Noten-Symbol dann gibst du im Suchfeld einen Teil des Song-Namens ein. Von den Suchergebnissen klickst du dann den richtigen Treffer an.
+
+> ⚠️ Viele Songs heißen ähnlich - Prüfe besser genau ob es der gleiche Song wie im ChurchTools-Ablauf ist
+
+![](./images/fw_songs-importieren.png)
 
 ---
 

@@ -8,20 +8,26 @@
 
 ---
 
-✅ Gib diesen Befehl ein: ```winget install Nextcloud.NextcloudDesktop```
+✅ Kopiere diesen Befehl da rein:
+
+> ```
+> winget install Nextcloud.NextcloudDesktop
+> ```
 
 ![](./images/nextcloud/1.2-winget-install(win+r).png)
 
+✅ Und bestätige mit 'Y' 'Enter'
+
 ---
 
-✅ Bestätige mit 'Ja'
+✅ Starte die Installation mit 'Ja'
 
 ![](./images/nextcloud/1.3-aenderungen-zulassen.png)
 
 ---
->
-> ... 'NextCloud - DeskClient' wird installiert ...
->
+
+✅ Warte einen Moment ... 'NextCloud - DeskClient' wird installiert ...
+
 ---
 
 ✅ Starte 'NextCloud'
@@ -36,7 +42,11 @@
 
 ---
 
-✅ Gib diese Serveradresse ein: ```https://nextcloud.immanuel-detmold.de```
+✅ Kopiere diese Serveradresse rein:
+
+> ```
+> https://nextcloud.immanuel-detmold.de
+> ```
 
 ✅ Klicke auf 'Weiter'
 
@@ -56,7 +66,7 @@
 
 ---
 
-✅ Gib diesen Nutzer ein: ```Video-User```
+✅ Gib diesen Nutzer ein: `Video-User`
 
 ✅ Gib das Passwort ein, dass du vom Admin bekommen hast
 
