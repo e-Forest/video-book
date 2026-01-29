@@ -42,9 +42,7 @@
 
 ---
 
-✅ Gib diesen Nutzer ein: `Video-User`
-
-✅ Gib das Passwort ein, dass du vom Admin bekommen hast
+✅ Nutzer und Passwort bekommst du vom Admin
 
 ![](./images/nextcloud/3.3-laufwerk-verbinden-3.png)
 
