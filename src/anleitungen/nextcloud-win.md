@@ -66,7 +66,13 @@
 
 ---
 
-✅ Nutzer und Passwort bekommst du vom Admin
+✅ Gib den Nutzer ein
+
+Wenn du Präsentationsinhalte stellst: `Beamer-Support` 
+
+Wenn du zum Video-Team gehörst: `Video-User` 
+
+(Das Passwort bekommst du vom Admin)
 
 ![](./images/nextcloud/3.3-laufwerk-verbinden-3.png)
 
