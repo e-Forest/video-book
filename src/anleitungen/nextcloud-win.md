@@ -66,7 +66,7 @@
 
 ---
 
-✅ Gib den Nutzer ein
+✅ Gib einen Nutzer ein
 
 Wenn du Präsentationsinhalte stellst: `Beamer-Support` 
 
