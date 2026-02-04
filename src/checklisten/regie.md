@@ -2,7 +2,7 @@
 
 ---
 
-## 60 .. 10 *(min vor dem GoDi)*
+## ⏰ 60 min vor dem GoDi
 
 ✅ [Flur Bildschirm](../anleitungen/flurbildschirm.md) ist an
 
@@ -14,6 +14,8 @@
 
 ✅ [ATEM](../anleitungen/atem.md) Software ist gestartet
 
+✅ In FreeWorship ist das SliteSet mit anstehenden Events geprüft und mit ‘Loop’ gestartet
+
 ✅ [Kamera 2](../anleitungen/kam2.md), [Kamera 5](../anleitungen/kam5.md) und [Kamera 6](../anleitungen/kam6.md) sind angeschaltet und ausgerichtet
 
 ✅ Bilder werden in [Multiview](../anleitungen/atem.md#multiview) angezeigt
@@ -24,16 +26,15 @@
 
 ✅ Regie [Headset](../anleitungen/headset.md) ist eingeschaltet, Verbindung zu Kameraleuten steht
 
-✅ In FreeWorship ist das SliteSet mit anstehenden Events geprüft und mit ‘Loop’ gestartet
+
+<!-- ---
+
+## ⏰ 10 min vor dem GoDi
+✅ [‘Intro An’](../anleitungen/sdeck.md#intro-an) auf Stream Deck leuchtet rot  -->
 
 ---
 
-## 10 .. 7 *(min vor dem GoDi)*
-✅ [‘Intro An’](../anleitungen/sdeck.md#intro-an) auf Stream Deck leuchtet rot
-
----
-
-## 5 *(min vor dem GoDi)*
+## ⏰ 5 min vor dem GoDi
 
 ✅ Tontechniker wissen bescheid dass man live geht
 
@@ -43,9 +44,15 @@
 
 ---
 
-## 0 min *(GoDi Start)*
+## ⏰ 1 min vor dem GoDi
 
-⚠️ Erste Cut mit Stream Deck [‘Intro Aus’](../anleitungen/sdeck.md#intro-aus)
+✅ Der [Channel 7 (Beamer-PC)](../anleitungen/infofolien.md#-regie--cut-auf-beamer-pc) ist ausgewählt
+
+---
+
+## ⏰ 0 min ➡️ GoDi Start
+
+<!-- ⚠️ Erste Cut mit Stream Deck [‘Intro Aus’](../anleitungen/sdeck.md#intro-aus) -->
 
 ✅ Licht ist auf ‘Predigt’ gestellt
 

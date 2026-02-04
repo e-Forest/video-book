@@ -2,7 +2,7 @@
 
 ---
 
-## 30 min vor dem GoDi
+## ⏰ 30 min vor dem GoDi
 
 ✅ Über Tuya App Beamer-Steckdose aktivieren (Die App haben nur ein paar Leute, an Leiter wenden)
 
@@ -20,9 +20,9 @@
 
 ✅ [Timer](../anleitungen/freeworship.md#timer) auf 10:00 Uhr einstellen
 
-✅ Beamer-Bild anzeigen [(apply down)](../anleitungen/freeworship.md)
+✅ Quelle auf [Tontechnik-PC](../anleitungen/infofolien.md#️-beamer--qelle-auf-ton-pc) umstellen
 
-✅ Informationen über [Ablauf](../anleitungen/churchtools.md#ablauf-anzeigen) für Gottesdienst sind auf ChurchTools vorhanden
+✅ Informationen über [Ablauf für Gottesdienst](../anleitungen/churchtools.md#ablauf-anzeigen) auf ChurchTools öffnen
 
 ✅ Songs in FreeWorship [hinzufügen](../anleitungen/freeworship.md#song-importieren) 
 
@@ -30,13 +30,19 @@
 
 ✅ Predigt-Präsentation in FreeWorschip [importieren](../anleitungen/freeworship.md#präsentation-importieren)
 
+## ⏰ 1 min vor dem GoDi
+
+✅ Welcome-Folie anzeigen [(apply down)](../anleitungen/freeworship.md#beamerbild-anzeigen)
+
+✅ Quelle auf [Beamer-PC](../anleitungen/infofolien.md#️-beamer--quelle-auf-beamer-pc) umstellen
+
 ---
 
 # Während dem GoDi
 
 ✅ Lieder schalten (parallel zum Lobpreis)
 
-✅ PowerPoint für Prediger schalten 
+✅ PowerPoint für Prediger schalten
 
 > **🌿 Ruhe bewahren:**
 > *Wenn du die richtige Zeile nicht sofort findest, bleib gelassen. Blende den Text kurz aus und suche in Ruhe die passende Stelle, statt hektisch durch die Folien zu klicken.*

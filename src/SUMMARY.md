@@ -32,3 +32,4 @@
     - [Tipps Beamer](./anleitungen/tipps_beamer.md)
     - [NextCloud(Win)](./anleitungen/nextcloud-win.md)
     - [NextCloud(Mac)](./anleitungen/nextcloud-mac.md)
+    - [Info-Folien anzeigen](./anleitungen/infofolien.md)
