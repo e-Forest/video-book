@@ -14,18 +14,23 @@
 
 ✅ [ATEM](../anleitungen/atem.md) Software ist gestartet
 
-✅ In FreeWorship ist das SliteSet mit anstehenden Events geprüft und mit ‘Loop’ gestartet
-
 ✅ [Kamera 2](../anleitungen/kam2.md), [Kamera 5](../anleitungen/kam5.md) und [Kamera 6](../anleitungen/kam6.md) sind angeschaltet und ausgerichtet
 
 ✅ Bilder werden in [Multiview](../anleitungen/atem.md#multiview) angezeigt
+
+---
+
+## ⏰ 35 min vor dem GoDi
+
+✅ In FreeWorship ist das [SliteSet](../anleitungen/infofolien.md#-35min-vor-godi) mit anstehenden Events geprüft und mit ‘Loop’ gestartet
+
+✅ Der [Channel 9 (Tontechnik-PC)](../anleitungen/infofolien.md#-35min-vor-godi) ist ausgewählt
 
 ✅ Das Makro [‘Kameras Einstellen’](../anleitungen/sdeck.md#kameras-einstellen) ist gestartet
 
 ✅ [Video-Encoder](../anleitungen/encoder.md) steht auf ‘ON AIR’
 
 ✅ Regie [Headset](../anleitungen/headset.md) ist eingeschaltet, Verbindung zu Kameraleuten steht
-
 
 <!-- ---
 
@@ -46,7 +51,7 @@
 
 ## ⏰ 1 min vor dem GoDi
 
-✅ Der [Channel 7 (Beamer-PC)](../anleitungen/infofolien.md#-regie--cut-auf-beamer-pc) ist ausgewählt
+✅ Der [Channel 7 (Beamer-PC)](../anleitungen/infofolien.md#-regie--cut-ist-auf-beamer-pc-gesetzt) ist ausgewählt
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-## 30 .. 10 *(min vor dem GoDi)*
+## ⏰ 30 min vor dem GoDi
 
 ✅ [Kamera](../anleitungen/kameras.md) ist eingeschaltet
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 10 .. 0 *(min vor dem GoDi)*
+## ⏰ 10 min vor dem GoDi
 
 ✅ Anweisungen der Regie folgen
 
