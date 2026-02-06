@@ -18,8 +18,6 @@
 
 ✅ [Show Stagedisplay](../anleitungen/freeworship.md#stage-display) einschalten
 
-✅ [Timer](../anleitungen/freeworship.md#timer) auf 10:00 Uhr einstellen
-
 ✅ Informationen über [Ablauf für Gottesdienst](../anleitungen/churchtools.md#ablauf-anzeigen) auf ChurchTools öffnen
 
 ✅ Songs in FreeWorship [hinzufügen](../anleitungen/freeworship.md#song-importieren) 
@@ -29,6 +27,8 @@
 ✅ Predigt-Präsentation in FreeWorschip [importieren](../anleitungen/freeworship.md#präsentation-importieren)
 
 ## ⏰ 5 min vor dem GoDi
+
+✅ [Timer](../anleitungen/freeworship.md#timer) auf 10:00 Uhr einstellen
 
 ✅ Welcome-Folie anzeigen [(apply down)](../anleitungen/freeworship.md#beamerbild-anzeigen)
 

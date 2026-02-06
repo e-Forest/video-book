@@ -14,7 +14,7 @@
 
 ✅ [ATEM](../anleitungen/atem.md) Software ist gestartet
 
-✅ In FreeWorship ist das [SliteSet](../anleitungen/infofolien.md#-35min-vor-godi) mit anstehenden Events geprüft und mit ‘Loop’ gestartet
+✅ In FreeWorship ist das [SliteSet](../anleitungen/infofolien.md#-regie--slideshow-auf-freeworship-ist-gestartet) mit anstehenden Events geprüft und mit ‘Loop’ gestartet
 
 ---
 
@@ -35,6 +35,8 @@
 ## ⏰ 5 min vor dem GoDi
 
 ✅ Tontechniker wissen bescheid dass man live geht
+
+✅ Beamer-Bediener weiß bescheid dass man live geht (FreeWorship Countdown ist gestartet)
 
 ✅ Stream ist im [Live Control Room](../anleitungen/yt-croom.md) gestartet
 
