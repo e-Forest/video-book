@@ -16,8 +16,6 @@
 
 ✅ In FreeWorship ist das [SliteSet](../anleitungen/infofolien.md#-35min-vor-godi) mit anstehenden Events geprüft und mit ‘Loop’ gestartet
 
-✅ Der [Channel 9 (Tontechnik-PC)](../anleitungen/infofolien.md#-35min-vor-godi) ist ausgewählt
-
 ---
 
 ## ⏰ 30 min vor dem GoDi
@@ -32,11 +30,6 @@
 
 ✅ Regie [Headset](../anleitungen/headset.md) ist eingeschaltet, Verbindung zu Kameraleuten steht
 
-<!-- ---
-
-## ⏰ 10 min vor dem GoDi
-✅ [‘Intro An’](../anleitungen/sdeck.md#intro-an) auf Stream Deck leuchtet rot  -->
-
 ---
 
 ## ⏰ 5 min vor dem GoDi
@@ -45,19 +38,9 @@
 
 ✅ Stream ist im [Live Control Room](../anleitungen/yt-croom.md) gestartet
 
-✅ Eine Kamera für Preview ist gesetzt
-
----
-
-## ⏰ 1 min vor dem GoDi
-
-✅ Der [Channel 7 (Beamer-PC)](../anleitungen/infofolien.md#-regie--cut-ist-auf-beamer-pc-gesetzt) ist ausgewählt
-
 ---
 
 ## ⏰ 0 min ➡️ GoDi Start
-
-<!-- ⚠️ Erste Cut mit Stream Deck [‘Intro Aus’](../anleitungen/sdeck.md#intro-aus) -->
 
 ✅ Licht ist auf ‘Predigt’ gestellt
 

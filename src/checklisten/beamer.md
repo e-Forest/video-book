@@ -20,8 +20,6 @@
 
 ✅ [Timer](../anleitungen/freeworship.md#timer) auf 10:00 Uhr einstellen
 
-✅ Quelle auf [Tontechnik-PC](../anleitungen/infofolien.md#️-beamer--qelle-ist-auf-ton-pc-gesetzt) umstellen
-
 ✅ Informationen über [Ablauf für Gottesdienst](../anleitungen/churchtools.md#ablauf-anzeigen) auf ChurchTools öffnen
 
 ✅ Songs in FreeWorship [hinzufügen](../anleitungen/freeworship.md#song-importieren) 
@@ -30,11 +28,9 @@
 
 ✅ Predigt-Präsentation in FreeWorschip [importieren](../anleitungen/freeworship.md#präsentation-importieren)
 
-## ⏰ 1 min vor dem GoDi
+## ⏰ 5 min vor dem GoDi
 
 ✅ Welcome-Folie anzeigen [(apply down)](../anleitungen/freeworship.md#beamerbild-anzeigen)
-
-✅ Quelle auf [Beamer-PC](../anleitungen/infofolien.md#️-beamer--quelle-ist-auf-beamer-pc-gesetzt) umstellen
 
 ---
 
@@ -44,7 +40,7 @@
 
 ✅ PowerPoint für Prediger schalten
 
-⚠️ Wenn du ein Video Abspielen willst, sag der Regie bescheid ⚠️
+⚠️ Wenn du ein Video abspielen willst, sag der Regie bescheid ⚠️
 
 > **🌿 Ruhe bewahren:**
 > *Wenn du die richtige Zeile nicht sofort findest, bleib gelassen. Blende den Text kurz aus und suche in Ruhe die passende Stelle, statt hektisch durch die Folien zu klicken.*
