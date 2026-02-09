@@ -26,6 +26,7 @@
     - [Theorie](./anleitungen/theorie.md)
     - [Headset](./anleitungen/headset.md)
     - [Beamer](./anleitungen/beamer.md)
+    - [Beamer (Basic)](./anleitungen/beamer(basic).md)
     - [FreeWorship](./anleitungen/freeworship.md)
     - [ChurchTools](./anleitungen/churchtools.md)
     - [WhatsApp](./anleitungen/whatsapp.md)
