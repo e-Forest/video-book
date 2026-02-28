@@ -26,6 +26,8 @@
 
 ✅ Das Makro [‘Kameras Einstellen’](../anleitungen/sdeck.md#kameras-einstellen) ist gestartet
 
+✅ Mit dem Prediger wurde darüber gesprochen, welche Veranschaulichungen / Visuellen Hilfsmittel er eingeplant hat
+
 ✅ [Video-Encoder](../anleitungen/encoder.md) steht auf ‘ON AIR’
 
 ✅ Regie [Headset](../anleitungen/headset.md) ist eingeschaltet, Verbindung zu Kameraleuten steht
