@@ -1,6 +1,6 @@
 # Checkliste Kamera
 
-[➡️ Basics](../anleitungen/stativkamera(basic).md)
+[📘 Basics](../anleitungen/stativkamera(basic).md)
 
 ---
 
