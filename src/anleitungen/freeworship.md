@@ -95,8 +95,10 @@ Dazu gibt es folgende Formatierungs-Regeln:
 ## Präsentation importieren
 
 Es gibt unterschiedliche Wege, wie Prediger die Präsentation zur Verfügung stellen.
+> [NextCloud](../anleitungen/nextcloud(use).md)
+>
 > [WhatsApp](../anleitungen/whatsapp.md)
-> OneDrive
+>
 > USB-Stick
 
 In jedem Fall muss die Präsentation durch FreeWorship-Datei-Browser importiert werden
