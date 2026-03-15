@@ -2,7 +2,7 @@
 
 [📘 Basics](../anleitungen/beamer(basic).md)
 
-[☁️ Datei Hochladen](https://nextcloud.immanuel-detmold.de/s/WZfiqd4LLRcgH8E)
+[☁️ Datei Hochladen](https://nextcloud.immanuel-detmold.de/s/NSN2zJ489P4pFBF)
 
 ---
 
