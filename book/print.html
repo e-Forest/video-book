@@ -37,7 +37,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-3b9485e8.js";
+            window.path_to_searchindex_js = "searchindex-635b5f5e.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-e4b562f8.js"></script>
@@ -1039,32 +1039,69 @@ Auf ihm wird das Bild von einigen Kameras, das Beamer-Bild und der State Display
 </blockquote>
 <div style="break-before: page; page-break-before: always;"></div>
 <h1 id="trouble-shooting"><a class="header" href="#trouble-shooting">Trouble Shooting</a></h1>
-<h2 id="fehler-kein-bild-im-café"><a class="header" href="#fehler-kein-bild-im-café">Fehler: Kein Bild im Café</a></h2>
-<h3 id="läuft-der-flurbildschirm"><a class="header" href="#läuft-der-flurbildschirm">Läuft der Flurbildschirm?</a></h3>
-<p><em>Wo: Anschlussraum 1 (Anschlussraum im Bestandsgebäude)</em></p>
-<p>Wenn der Flurbildschirm nicht läuft, dann ist etwas zwischen dem Saal-PC und dem  nicht in ordnung.</p>
-<h3 id="läuft-der-bildmischer"><a class="header" href="#läuft-der-bildmischer">Läuft der Bildmischer?</a></h3>
-<p><em>Wo: Anschlussraum 2 (Anschlussraum im Anbau)</em></p>
-<blockquote>
-<p><strong>⚠️ Ursache: Bildmischer ist aus</strong></p>
-<p>Wenn der Bildmischer an ist, leuchtet er rot.</p>
+<h2 id="anschlussräume"><a class="header" href="#anschlussräume">Anschlussräume</a></h2>
 <ul>
-<li>
-<p><em>Wenn nein:</em></p>
+<li>Es gibt 2 Anschlussräume
 <ul>
-<li>Shelly ‘Verstärker’ aus und wieder an machen</li>
-<li>Wenn der Bildmischer an ist, sollte man jetzt ein ‘huuuiiii’ hören (der Lüfter vom Bildmischer) -&gt; Dann sollte alles funktionieren</li>
+<li>Anschlussraum 1 (im Bestandsgebäude)</li>
+<li>Anschlussraum 2 (im Anbau/Café)</li>
 </ul>
 </li>
+</ul>
+<p><img src="anleitungen/anschlussräume.png" alt=""></p>
+<h2 id="-fehler-kein-bild-im-café"><a class="header" href="#-fehler-kein-bild-im-café">⚠️ Fehler: Kein Bild im Café</a></h2>
+<h3 id="-prüfen-läuft-der-bildmischer"><a class="header" href="#-prüfen-läuft-der-bildmischer">🔎 Prüfen: Läuft der Bildmischer?</a></h3>
+<p><em>Wo: Anschlussraum 2 (Anschlussraum im Anbau)</em></p>
+<blockquote>
+<ul>
+<li>✅ Bildmischer leuchtet rot -&gt; Er ist an</li>
+</ul>
+<p><img src="anleitungen/bildmischer-ok.png" alt=""></p>
+</blockquote>
+<blockquote>
+<ul>
+<li>❌ Bildmischer leuchtet nicht -&gt; Er ist aus</li>
+</ul>
+<p><img src="anleitungen/bildmischer-nok.png" alt=""></p>
+<ul>
 <li>
-<p><em>Wenn weiterhin nein:</em></p>
+<p>➡️ Shelly ‘Verstärker’ aus und wieder an machen</p>
+<ul>
+<li>Wenn der Bildmischer dadurch an geht, hört man ein ‘huuuiiii’ (der Lüfter vom Bildmischer) -&gt; ✅ Dann sollte der Bildmischer rot leuchten und alles funktionieren</li>
+</ul>
+<p><img src="anleitungen/shelly-verstärker.png" alt=""></p>
+</li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>❌ Bildmischer leuchtet immer noch nicht -&gt; Er ist aus
+<img src="anleitungen/schaltkasten-verstärker.png" alt="">
 <ul>
 <li>Im Schaltkasten ‘Verstärker’ aus und wieder an schalten</li>
-<li>Dann Shelly aus und wieder anschalten</li>
+<li>Dann in Shelly ‘Verstärker’ aus und wieder anschalten</li>
 </ul>
 </li>
 </ul>
 </blockquote>
+<h2 id="-fehler-streamdeck-funktioniert-nicht"><a class="header" href="#-fehler-streamdeck-funktioniert-nicht">⚠️ Fehler: Streamdeck funktioniert nicht</a></h2>
+<p>ℹ️ An den roten Punkten kann man erkennen, dass das Streamdeck keine Verbindung zum Bildmischer hat.</p>
+<p><img src="anleitungen/streamdeck-nok.png" alt=""></p>
+<h3 id="-prüfen-läuft-der-bildmischer-1"><a class="header" href="#-prüfen-läuft-der-bildmischer-1">🔎 Prüfen: <a href="#-prüfen-läuft-der-bildmischer">Läuft der Bildmischer</a></a></h3>
+<h3 id="-workaround-schalte-die-grafik-quelle-direkt-am-bildmischer"><a class="header" href="#-workaround-schalte-die-grafik-quelle-direkt-am-bildmischer">🔃 Workaround: Schalte die Grafik-Quelle direkt am Bildmischer</a></h3>
+<p><em>Wo: Anschlussraum 2 (Anschlussraum im Anbau)</em></p>
+<blockquote>
+<p>➡️ drücke bei dem Bildmischer im Anschlussraum 1 auf ‘Qelle 4’(1) (Für den GrafikPc-Café) und anschließend auf ‘CUT’(2)</p>
+<p>Jetzt sollte der Café-Beamer die Inhalte vom GrafikPc-Café anzeigen ✅</p>
+<p><img src="anleitungen/bildmischer-manuel-cut.png" alt=""></p>
+</blockquote>
+<!-- ### 🔎 Prüfen: Läuft der Flurbildschirm?
+
+🚧 Baustelle 🚧
+
+*Wo: Anschlussraum 1 (Anschlussraum im Bestandsgebäude)*
+
+Wenn der Flurbildschirm nicht läuft, dann ist etwas zwischen dem Saal-PC und dem  nicht in ordnung. -->
 <div style="break-before: page; page-break-before: always;"></div>
 <h1 id="freeworship"><a class="header" href="#freeworship">FreeWorship</a></h1>
 <hr>
