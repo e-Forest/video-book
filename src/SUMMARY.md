@@ -27,6 +27,7 @@
     - [Headset](./anleitungen/headset.md)
     - [Beamer](./anleitungen/beamer.md)
     - [Beamer (Basic)](./anleitungen/beamer(basic).md)
+    - [Uhrzeit Synchronisieren](./anleitungen/uhrzeit-sync.md)
     - [Trouble Shooting](./anleitungen/trouble-shooting.md)
     - [FreeWorship](./anleitungen/freeworship.md)
     - [ChurchTools](./anleitungen/churchtools.md)
