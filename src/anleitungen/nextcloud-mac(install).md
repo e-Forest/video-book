@@ -44,13 +44,17 @@
 
 ✅ Gib einen Nutzer ein
 
-Wenn du Präsentationsinhalte stellst: `Beamer-Support` 
+Wenn du Prediger bist: `Prediger`
 
-Wenn du zum Video-Team gehörst: `Video-User` 
+Wenn du Präsentationsinhalte stellst: `Beamer-Support`
+
+Wenn du zum Video-Team gehörst: `Video-User`
 
 (Das Passwort bekommst du vom Admin)
 
 ![](./images/nextcloud/3.3-laufwerk-verbinden-3.png)
+
+!!;!;#
 
 ---
 
