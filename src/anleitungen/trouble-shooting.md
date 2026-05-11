@@ -58,3 +58,19 @@
 *Wo: Anschlussraum 1 (Anschlussraum im Bestandsgebäude)*
 
 Wenn der Flurbildschirm nicht läuft, dann ist etwas zwischen dem Saal-PC und dem  nicht in ordnung. -->
+
+## ⚠️ Fehler: Fehlermeldung 'Permission Denied' bei FreeWorship
+
+![img](images/trouble-shooting/permission-denied.png)
+
+### 🔎 Prüfen: Ist auf einem Bildschirm (Beamer oder Stagedisplay) ein weiteres Fenster erschienen?
+
+> ℹ️ Wenn dieser Fehler erscheint, kann man in der Regel einfach zwei mal auf ENTER klicken.
+
+Der Fehler bedeutet, dass eine Datei (Bild oder Hintergrund) nicht mehr verfügbar ist.
+
+Es sollte auf einem der Bildschirme eine weitere Meldung erscheinen, die man bestätigen muss.
+
+Diese weitere Meldung erscheint oft in einem Fenster auf dem Beamer oder Stagedisplay dadurch übersieht man sie schnell.
+
+Wenn man zwei mal auf ENTER klickt, werden beide Meldungen geschlossen -> ✅ Problem behoben
