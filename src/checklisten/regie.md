@@ -14,7 +14,7 @@
 
 ✅ [ATEM](../anleitungen/atem.md) Software ist gestartet
 
-✅ In FreeWorship ist das [SliteSet](../anleitungen/infofolien.md#-regie--slideshow-auf-freeworship-ist-gestartet) mit anstehenden Events geprüft und mit ‘Loop’ gestartet
+✅ Der 'Folienlooper' ist gestartet (Verknüpfung befindet sich auf dem Desktop)
 
 ---
 
@@ -76,8 +76,6 @@
 ### GoDi *(nach Outro-Folien)*
 
 ✅ Stream ist im [Live Control Room](../anleitungen/yt-croom.md) beendet
-
-✅ In FreeWorship ist das SliteSet mit anstehenden Events geprüft und mit ‘Loop’ gestartet
 
 ✅ Macro [‘Diashow Cafe’](../anleitungen/sdeck.md#diashow-cafe) ist gestartet
 
