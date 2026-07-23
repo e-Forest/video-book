@@ -6,11 +6,14 @@
 
 ✅ [Flur Bildschirm](../anleitungen/flurbildschirm.md) ist an
 
-✅ Die [Lichtschalter](../anleitungen/licht-strahler.md#beleuchtung) für Bühne und Balkon sind ausgeschaltet
+✅ Die [Lichtschalter](../anleitungen/licht-strahler.md#beleuchtung) für Bühne und Balkon sind ausgeschaltet Wandlichter bleiben an.
 
-✅ [Strahler](../anleitungen/licht-strahler.md#strahler) sind bereit
+✅ Licht PC ist gestartet - PW: Siehe Monitor
 
-✅ [Lichtpult](../anleitungen/licht-panel.md#datenbanken) ist auf ‘BK01’ und ‘Ambiente’
+✅ Licht einstellen
+> Fader 1 (Front-Licht): 5%
+>
+> Fader 2 (Saal-Licht): 40%
 
 ✅ [ATEM](../anleitungen/atem.md) Software ist gestartet
 
@@ -24,13 +27,20 @@
 
 ✅ Bilder werden in [Multiview](../anleitungen/atem.md#multiview) angezeigt
 
-✅ Das Makro [‘Kameras Einstellen’](../anleitungen/sdeck.md#kameras-einstellen) ist gestartet
+✅ Das Makro [‘Kameras Einstellen’](../anleitungen/sdeck.md#kameras-einstellen) ist gestartet (Weißabgleich ggf. noch anpassen K1,K3,K4:4700 K2+K6:5000 K5:4800)
 
-✅ Mit dem Prediger wurde darüber gesprochen, welche Veranschaulichungen / Visuellen Hilfsmittel er eingeplant hat
 
 ✅ [Video-Encoder](../anleitungen/encoder.md) steht auf ‘ON AIR’
 
 ✅ Regie [Headset](../anleitungen/headset.md) ist eingeschaltet, Verbindung zu Kameraleuten steht
+
+✅ (Vor dem Teamgebet) Prüfen ob der Beamer im Café funktioniert
+
+✅ An Preshow-Besprechung teilnehmen
+
+> Prediger: Welche Veranschaulichungen / Visuellen Hilfsmittel
+>
+> Programm: Videos die abgespielt werden müssen
 
 ---
 
@@ -46,11 +56,19 @@
 
 ## ⏰ 0 min ➡️ GoDi Start
 
-✅ Licht ist auf ‘Predigt’ gestellt
+✅ Licht einstellen
+> Fader 1 (Front-Licht): 70%
+>
+> Fader 2 (Saal-Licht): 0%
 
 ---
 
 # Während dem GoDi
+
+✅ Beamerbild und Licht gemäß Programmpunkt einstellen
+> [➡️ Ablauf](../anleitungen/beamerbild-ablauf.md)
+>
+> [➡️ Beamer Controller](../anleitungen/beamer-controller.md)
 
 > **🎬 Jeder Shot sollte als Standbild funktionieren:**
 > *Jeder Kamerashot muss so komponiert sein, dass er auch als Poster oder Thumbnail taugt*
@@ -85,9 +103,9 @@
 
 ✅ An Feedback-Runde bei der Regie teilnehmen
 
-✅ [Lichtpult](../anleitungen/licht-panel.md#einschalten--auschalten) ist ausgeschaltet
+✅ Alle Fader auf 0%
 
-✅ [Strahler](../anleitungen/licht-strahler.md#strahler) sind aus
+✅ Licht PC herunterfahren
 
 ✅ [Kameras](../anleitungen/kameras.md) sind aus (⚠️ besonders Kamera 2 und Kamera 6)
 

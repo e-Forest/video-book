@@ -37,3 +37,5 @@
     - [NextCloud(Win) intallieren](./anleitungen/nextcloud-win(install).md)
     - [NextCloud(Mac) intallieren](./anleitungen/nextcloud-mac(install).md)
     - [Info-Folien anzeigen](./anleitungen/infofolien.md)
+    - [Beamerbild Ablauf](./anleitungen/beamerbild-ablauf.md)
+    - [Streamdeck Beamer Controller](./anleitungen/beamer-controller.md)
